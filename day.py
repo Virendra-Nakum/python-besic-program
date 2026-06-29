@@ -1,4 +1,4 @@
-1)
+(1)
 num=50
 
 for i in range(3):
